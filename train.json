@@ -1,0 +1,290 @@
+[
+    {
+        "language": "Hindi",
+        "story": "Kal meri gaadi ko tez raftaar truck ne takkar mari, aur mujhe chot lagyi.",
+        "fir": {
+            "type": " (Accident)",
+            "details": {
+                "incident_description": "Tez truck ki takkar se chot lagi.",
+                "location": "Main road",
+                "date_time": "Kal",
+                "involved_parties": [
+                    "Victim (Main)",
+                    "Truck driver"
+                ],
+                "witnesses": [
+                    "Pass ke log (Pedestrians)"
+                ]
+            }
+        }
+    },
+    {
+        "language": "Hindi",
+        "story": "Mujhe ek anjaane number se dhamki bhare messages aa rahe hain.",
+        "fir": {
+            "type": " (Harassment)",
+            "details": {
+                "incident_description": "Anjaane number se dhamki bhare sandesh aa rahe hain.",
+                "date_time": "Pichle kuch dinon se",
+                "suspect_details": "Anjaana number",
+                "evidence": [
+                    "Dhamki bhare messages"
+                ]
+            }
+        }
+    },
+    {
+        "language": "Hindi",
+        "story": "Raat ko mere ghar mein chori hui. Koi chor sona aur paisa le gaya.",
+        "fir": {
+            "type": "(Theft)",
+            "details": {
+                "incident_description": "Ghar mein chori aur sona-paisa chori ho gaya.",
+                "location": "Ghar",
+                "date_time": "Raat ko",
+                "suspect_details": "Ajnabi, chehra nahi dekha",
+                "stolen_items": [
+                    "Sona (Jewelry)",
+                    "Paisa (Cash)"
+                ]
+            }
+        }
+    },
+    {
+        "language": "English",
+        "story": "Yesterday, my car was hit by a speeding truck, and I got injured.",
+        "fir": {
+            "type": "Accident",
+            "details": {
+                "incident_description": "Collision with a speeding truck resulting in injury.",
+                "location": "Main road",
+                "date_time": "Yesterday",
+                "involved_parties": [
+                    "Victim (self)",
+                    "Truck driver"
+                ],
+                "witnesses": [
+                    "Pedestrians nearby"
+                ]
+            }
+        }
+    },
+    {
+        "language": "English",
+        "story": "Last night, someone broke into my house and stole my jewelry and cash.",
+        "fir": {
+            "type": "Theft",
+            "details": {
+                "incident_description": "Burglary at home with jewelry and cash stolen.",
+                "location": "Residential house",
+                "date_time": "Last night",
+                "suspect_details": "Unknown, no face seen",
+                "stolen_items": [
+                    "Jewelry",
+                    "Cash"
+                ]
+            }
+        }
+    },
+    
+        {
+            "language": "English",
+            "story": "Last night, Jewelry was stolen from outside my house.",
+            "fir": {
+                "type": "Theft",
+                "table": {
+                    "Section": "IPC Section 379",
+                    "Term": "Larceny",
+                    "Type of Crime": "Theft",
+                    "Date and Time": "Last night",
+                    "Incident Description": "Jewelry was stolen from outside my house.",
+                    "Location": "outside my house",
+                    "Suspect Details": "Unknown, no witnesses",
+                    "Items Involved": "Jewelry",
+                    "Additional Notes": "No CCTV footage available."
+                }
+            }
+        },
+        {
+            "language": "English",
+            "story": "Yesterday, a Scooter was involved in an accident at residential street.",
+            "fir": {
+                "type": "Accident",
+                "table": {
+                    "Section": "IPC Section 279",
+                    "Term": "Negligence",
+                    "Type of Crime": "Accident",
+                    "Date and Time": "Yesterday",
+                    "Incident Description": "Scooter was involved in an accident at residential street.",
+                    "Location": "residential street",
+                    "Suspect Details": "Speeding vehicle",
+                    "Items Involved": "Scooter",
+                    "Additional Notes": "Victim hospitalized."
+                }
+            }
+        },
+        {
+            "language": "English",
+            "story": "Last week, I received threatening Emails online.",
+            "fir": {
+                "type": "Harassment",
+                "table": {
+                    "Section": "IPC Section 506",
+                    "Term": "Criminal Intimidation",
+                    "Type of Crime": "Harassment",
+                    "Date and Time": "Last week",
+                    "Incident Description": "I received threatening Emails online.",
+                    "Location": "online",
+                    "Suspect Details": "Anonymous email",
+                    "Items Involved": "Emails",
+                    "Additional Notes": "Ongoing investigation."
+                }
+            }
+        },
+        {
+            "language": "English",
+            "story": "Last night, my child went missing from park.",
+            "fir": {
+                "type": "Missing Person",
+                "table": {
+                    "Section": "N/A",
+                    "Term": "Missing Person Report",
+                    "Type of Crime": "Missing Person",
+                    "Date and Time": "Last night",
+                    "Incident Description": "Child went missing from park.",
+                    "Location": "park",
+                    "Suspect Details": "N/A",
+                    "Items Involved": "N/A",
+                    "Additional Notes": "Last seen wearing blue shirt."
+                }
+            }
+        },
+        {
+            "language": "Hindi",
+            "story": "Raat ko mere ghar ke bahar se laptop chori ho gaya.",
+            "fir": {
+                "type": "चोरी (Theft)",
+                "table": {
+                    "Section": "IPC Section 379",
+                    "Term": "चोरी (Larceny)",
+                    "Type of Crime": "चोरी (Theft)",
+                    "Date and Time": "Raat ko",
+                    "Incident Description": "Ghar ke bahar se laptop chori ho gaya.",
+                    "Location": "Ghar ke bahar",
+                    "Suspect Details": "Ajnabi, koi gawah nahi",
+                    "Items Involved": "Laptop",
+                    "Additional Notes": "CCTV nahi hai."
+                }
+            }
+        },
+        {
+            "language": "Hindi",
+            "story": "Kal ek safed gaadi ne mere scooter ko takkar mari aur driver bhaag gaya.",
+            "fir": {
+                "type": "दुर्घटना (Accident)",
+                "table": {
+                    "Section": "IPC Section 279",
+                    "Term": "लापरवाही (Negligence)",
+                    "Type of Crime": "दुर्घटना (Accident)",
+                    "Date and Time": "Kal",
+                    "Incident Description": "Safed gaadi ne scooter ko takkar mari, driver bhaag gaya.",
+                    "Location": "Bazaar ke paas wali sadak",
+                    "Suspect Details": "Ajnabi, safed gaadi",
+                    "Items Involved": "Scooter",
+                    "Additional Notes": "Kuch log wahan maujood the."
+                }
+            }
+        },
+        {
+            "language": "Hindi",
+            "story": "Mujhe ek anjaane number se dhamki bhari calls aa rahi hain.",
+            "fir": {
+                "type": "उत्पीड़न (Harassment)",
+                "table": {
+                    "Section": "IPC Section 506",
+                    "Term": "धमकी (Criminal Intimidation)",
+                    "Type of Crime": "उत्पीड़न (Harassment)",
+                    "Date and Time": "Pichle hafte",
+                    "Incident Description": "Anjaane number se dhamki bhari calls mil rahi hain.",
+                    "Location": "Ghar par",
+                    "Suspect Details": "Anjaana, mard ki awaaz",
+                    "Items Involved": "Mobile phone",
+                    "Additional Notes": "Calls record ki gayi hain saboot ke liye."
+                }
+            }
+        },
+        {
+            "language": "English",
+            "story": "Last night around 11 PM, while we were sleeping, someone broke into our house. They entered through the kitchen window, which was left slightly open. They stole jewelry worth over 2 lakh rupees, including gold necklaces, rings, and bracelets. They also took cash from the drawer in the living room. We heard some noise around midnight but thought it was the cat. This morning, we found the window open and the jewelry box empty. Our neighbor mentioned seeing a suspicious man lurking around our house the previous evening.",
+            "expected_fir": {
+                "type": "Theft",
+                "table": {
+                    "Section": "IPC Section 379",
+                    "Term": "Larceny",
+                    "Type of Crime": "Theft",
+                    "Date and Time": "Last night around 11 PM",
+                    "Incident Description": "Burglary through the kitchen window with jewelry and cash stolen.",
+                    "Location": "Residential house",
+                    "Suspect Details": "Suspicious man seen by neighbor",
+                    "Items Involved": "Jewelry, Cash",
+                    "Additional Notes": "No CCTV footage available."
+                }
+            }
+        },
+        {
+            "language": "English",
+            "story": "Yesterday evening at 6 PM, I was riding my bike back home from work. At the intersection near the shopping mall, a speeding car jumped the red light and crashed into my bike from the side. I fell on the road and injured my leg and arm. The driver did not stop and sped away. The car was a white sedan with tinted windows. Some pedestrians helped me get up and called an ambulance. The police were informed, and I was taken to the hospital. I remember one of the bystanders noting down the car's number plate.",
+            "expected_fir": {
+                "type": "Accident",
+                "table": {
+                    "Section": "IPC Section 279",
+                    "Term": "Negligence",
+                    "Type of Crime": "Accident",
+                    "Date and Time": "Yesterday evening at 6 PM",
+                    "Incident Description": "Speeding car jumped the red light and hit the bike, causing injuries.",
+                    "Location": "Intersection near the shopping mall",
+                    "Suspect Details": "White sedan with tinted windows",
+                    "Items Involved": "Bike damaged, Personal injuries",
+                    "Additional Notes": "Witness noted car's number plate."
+                }
+            }
+        },
+        {
+            "language": "English",
+            "story": "For the past week, I have been receiving threatening calls from an unknown number. The caller threatens me with harm if I don't pay a certain amount of money. The voice sounds like a middle-aged man, and he calls at odd hours, including late at night. He also sent me text messages with abusive language. I have saved all the messages and recorded some of the calls for evidence. The calls are causing me anxiety and affecting my sleep. I believe this person is targeting me intentionally.",
+            "expected_fir": {
+                "type": "Harassment",
+                "table": {
+                    "Section": "IPC Section 506",
+                    "Term": "Criminal Intimidation",
+                    "Type of Crime": "Harassment",
+                    "Date and Time": "Past week",
+                    "Incident Description": "Receiving threatening calls and abusive text messages from an unknown number.",
+                    "Location": "At home",
+                    "Suspect Details": "Unknown caller, middle-aged man's voice",
+                    "Items Involved": "Mobile phone",
+                    "Additional Notes": "Messages saved and calls recorded as evidence."
+                }
+            }
+        },
+        {
+            "language": "English",
+            "story": "My daughter has been missing since last night. She went to her friend's house for a group study session but did not return home. Her friend's parents mentioned that she left their house around 8 PM. She was last seen walking towards the main road near the park. She was wearing a pink top and blue jeans. We searched all nearby places, including the park, market, and bus stop, but there was no sign of her. She did not take her mobile phone with her, so we couldn't contact her. We are extremely worried as this is very unusual behavior for her.",
+            "expected_fir": {
+                "type": "Missing Person",
+                "table": {
+                    "Section": "N/A",
+                    "Term": "Missing Person Report",
+                    "Type of Crime": "Missing Person",
+                    "Date and Time": "Last night around 8 PM",
+                    "Incident Description": "Child went missing after leaving friend's house.",
+                    "Location": "Near the park on the main road",
+                    "Suspect Details": "N/A",
+                    "Items Involved": "N/A",
+                    "Additional Notes": "Last seen wearing pink top and blue jeans."
+                }
+            }
+        }
+    
+    
+]

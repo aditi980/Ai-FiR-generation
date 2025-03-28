@@ -1,0 +1,30 @@
+[
+    {
+        "language": "Hindi",
+        "story": "Mera beta kal raat se laapata hai. Usey aakhri baar bazaar ke paas dekha gaya tha.",
+        "fir": {
+            "type": "(Missing Person)",
+            "details": {
+                "missing_person_name": "Beta",
+                "description": "Chhota ladka, neela shirt aur jeans pehna tha.",
+                "last_seen_location": "Bazaar ke paas",
+                "date_time": "Kal raat",
+                "contact_details": "Mata-pita ka sampark number"
+            }
+        }
+    },
+    {
+        "language": "English",
+        "story": "My son has been missing since last night. He was last seen near the market.",
+        "fir": {
+            "type": "Missing Person",
+            "details": {
+                "missing_person_name": "Son",
+                "description": "Young boy, wearing a blue shirt and jeans.",
+                "last_seen_location": "Near the market",
+                "date_time": "Last night",
+                "contact_details": "Parent's contact number"
+            }
+        }
+    }
+]
